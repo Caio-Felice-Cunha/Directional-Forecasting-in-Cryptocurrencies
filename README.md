@@ -66,3 +66,23 @@ Participants are provided with a dataset containing minute-by-minute **OHLCV** (
 
 5. **Submission**:
     - Generating predictions and submitting via Kaggle.
+
+## Results & Insights 📈
+- The final evaluation will be based on the F1 score.
+- Model performance and analysis will be shared as the project progresses.
+
+## Repository Structure 📂
+```
+├── data/                    # Dataset folder
+├── scripts-notebooks/       # Jupyter notebooks for EDA and experiments and Python scripts for preprocessing and training
+├── models/                  # Saved models
+├── submissions/             # Submission CSV files
+├── requirements.txt         # Dependencies
+└── README.md                # Project documentation
+```
+
+## Contributions
+Feel free to fork the repository, make your own contributions, and open a pull request. Any feedback is welcome!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Caio-Felice-Cunha/Directional-Forecasting-in-Cryptocurrencies/blob/main/LICENSE) file for details.
