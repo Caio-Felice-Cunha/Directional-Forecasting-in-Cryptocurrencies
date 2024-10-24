@@ -73,7 +73,7 @@ Participants are provided with a dataset containing minute-by-minute **OHLCV** (
 
 ## Repository Structure 📂
 ```
-├── data/                    # Dataset folder
+├── datasets/                    # Dataset folder
 ├── scripts-notebooks/       # Jupyter notebooks for EDA and experiments and Python scripts for preprocessing and training
 ├── models/                  # Saved models
 ├── submissions/             # Submission CSV files
